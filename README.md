@@ -1,47 +1,54 @@
 ## Hello there 👋
 ### My name is Samir Akhmedov
-### Senior Mobile Developer | Flutter Specialist
+### AI engineer | Senior mobile engineer (Flutter, Android)
 
-I'm a passionate mobile developer with extensive experience in building high-quality cross-platform applications using Flutter. I specialize in creating elegant, performant mobile experiences that users love. Currently exploring new opportunities to work on exciting projects and solve challenging problems.
+Flutter and Android are my home turf. I'm a senior mobile engineer, and mobile is the base I build everything else on.
+
+These days I also call myself an AI engineer, and here's what I mean by that. I build custom AI flows, I use AI constantly (always with safety in mind), and I automate whatever I can.
 
 #
+
+### Skills
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="42" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="42" />
-</div>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="42" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="42" />
 </div>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="42" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="42" />
-</div>
-
 #
 
 ### Featured Projects
 
-**[Telegram Video Downloader Bot](https://github.com/samirakhmedov/tg-downloader)**  
-A robust Telegram bot built with Go for downloading videos from popular social media platforms (Instagram, TikTok, YouTube Shorts, Twitter/X). Features clean architecture, admin controls, group management, and concurrent video processing with yt-dlp integration.
+- **[predictive-back](https://github.com/samirakhmedov/predictive-back)**: Android 17 Settings-style predictive back for Navigation 3 in Compose. It's a library plus a sample app.
+- **[sea-glass-android](https://github.com/samirakhmedov/sea-glass-android)**: a Compose design kit with frosted, refractive glass on Material 3 Expressive (AGSL shaders, springy motion, reduced-motion fallback). Pre-alpha.
+- **[MLKitGenAIShowcase](https://github.com/samirakhmedov/MLKitGenAIShowcase)**: an Android app exploring on-device ML / GenAI.
+- **[AIEdgeShowcase](https://github.com/samirakhmedov/AIEdgeShowcase)**: another Android app exploring on-device ML / GenAI.
 
-**[Flutter App Template](https://github.com/samirakhmedov/app_template)**  
-Production-ready Flutter template with modular architecture, featuring custom packages for analytics, database, networking, and UI components. Built with BLoC pattern, auto_route, and comprehensive tooling for rapid development. Work in progress with ongoing improvements.
+#
 
-**Native Mobile Experiments**  
-Exploring native mobile development through hands-on projects: [MLKit GenAI Showcase](https://github.com/samirakhmedov/MLKitGenAIShowcase) (Android/Kotlin) and [Foundation Models Showcase](https://github.com/samirakhmedov/FoundationModelsShowcase) (iOS/Swift) - experimenting with on-device ML and AI capabilities.
+### Beyond code
+
+Design is a real interest of mine, especially UI/UX and motion design. I care about how an app feels, not only how it works. Away from the screen, theater is another big one for me. It's a good reminder that people are the point of everything I build.
+
+#
+
+### Extras
+
+Also around: [tg-downloader](https://github.com/samirakhmedov/tg-downloader) (a Go Telegram video bot), [FoundationModelsShowcase](https://github.com/samirakhmedov/FoundationModelsShowcase) (iOS counterpart, Apple Foundation Models) and [app_template](https://github.com/samirakhmedov/app_template) (a Flutter template).
+
+#
+
+### Setup
+
+- Editors: Zed IDE, VSCodium
+- Machine: MacBook Pro M3 Pro
+- Devices: Pixel 9, iPhone 11
+- AI: Claude Code
 
 #
 
