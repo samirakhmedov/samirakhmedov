@@ -72,7 +72,7 @@ Also around: [tg-downloader](https://github.com/samirakhmedov/tg-downloader) (a 
   <a href="https://t.me/samir_akhmedov_w">
     <img src="https://img.shields.io/badge/Telegram-blue.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://mobiusconf.com/en/archive/2025%20Autumn/persons/6fb0f87a314846d7a0642837ad85d394/">
-    <img src="https://img.shields.io/badge/Mobius_Conf-FF6B35.svg?style=for-the-badge&logo=speakerdeck&logoColor=white" />
+  <a href="https://x.com/_nolemretaW">
+    <img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </div>
